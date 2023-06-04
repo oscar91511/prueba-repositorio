@@ -27,4 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+![Scremshot](https://i.ibb.co/zQ6X5K1/Captura-de-pantalla-574.png)
+![Scremshot](https://i.ibb.co/N7D32b4/Captura-de-pantalla-575.png)
 
